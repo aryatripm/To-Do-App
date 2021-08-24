@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="add_new_note">Add New Note</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="delete_tasks">Delete Tasks</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
